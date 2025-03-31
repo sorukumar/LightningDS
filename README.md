@@ -23,15 +23,15 @@ pip install lightningDS
 
 Or install from source:
 
-\`\`\`bash
+```bash
 git clone https://github.com/sorukumar/lightningDS.git
 cd lightningDS
 pip install -e .
-\`\`\`
+```
 
 ## Quick Start
 
-\`\`\`python
+```python
 import lightningDS as lds
 
 # Load data
@@ -61,7 +61,7 @@ G = lds.analysis.create_network_graph(nodes_df, channels_df)
 # Visualize
 lds.visualization.plot_node_distribution(nodes_df, "channel_count")
 lds.visualization.plot_network_graph(G, node_size_attr="channel_count")
-\`\`\`
+```
 
 ## Documentation
 
