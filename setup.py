@@ -9,12 +9,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="lightningDS",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Bitcoin Data Labs",
+    author_email="lnsorukumar@gmail.com",
     description="A data science library for analyzing Lightning Network data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lightningDS",
+    url="https://github.com/sorukumar/lightningDS",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
