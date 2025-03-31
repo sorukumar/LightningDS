@@ -24,7 +24,7 @@ pip install lightningDS
 Or install from source:
 
 \`\`\`bash
-git clone https://github.com/yourusername/lightningDS.git
+git clone https://github.com/sorukumar/lightningDS.git
 cd lightningDS
 pip install -e .
 \`\`\`
