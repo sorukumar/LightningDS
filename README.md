@@ -17,9 +17,9 @@ LightningDS is a data science toolkit designed specifically for working with Lig
 
 ## Installation
 
-\`\`\`bash
+```bash
 pip install lightningDS
-\`\`\`
+```
 
 Or install from source:
 
