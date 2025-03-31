@@ -69,7 +69,10 @@ For detailed documentation, see the [docs](docs/) directory.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+LightningDS is an open-source project maintained by Bitcoin Data Labs. Contributions are welcome from the community! Please feel free to submit a Pull Request.
+
+### Contributors
+Saurabh Kumar - Project Lead
 
 ## License
 
